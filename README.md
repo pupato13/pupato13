@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/pupato13/6cf8de78ea73eea8d95c9577caa832b1/raw/0e8f36e4c2ddc981e7dbe96cfe21c482e6345599/githubcard.svg"/>
-<h1 align="left">Yo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Pupato</h1>
+<h1 align="left">Yo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Pupato (aka Pupa)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pupato13&color=green" alt="Profile views" /> </p>
 
 - 🔥 Senior Web Developer
@@ -7,6 +7,10 @@
 - 🔭 I’m currently working on [1st Call Recruitment](https://www.1stcall.co.nz/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, React-Native, MongoDB**
+
+- ❤ **Débora** & **Palmeiras**
+
+> Understand the business. You'll be a much better developer if you understand the business domain you are in!
 
 <br><br>
 

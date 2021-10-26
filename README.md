@@ -10,7 +10,7 @@
 
 - ❤ **Débora** & **Palmeiras**
 
-> Understand the business. You'll be a much better developer if you understand the business domain you are in!
+> Understand the business. You'll be a much better developer if you understand the business you are in!
 
 <br><br>
 

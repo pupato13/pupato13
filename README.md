@@ -4,7 +4,7 @@
 
 - 🔥 Senior Web Developer
 
-- 🔭 I’m currently working on [1st Call Recruitment](https://www.1stcall.co.nz/)
+- 🔭 I’m currently working at [1st Call Recruitment](https://www.1stcall.co.nz/)
 
 - 💬 Talk to me about **JavaScript, HTML, CSS, Node.JS, React-Native, MongoDB**
 

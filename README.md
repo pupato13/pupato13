@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://github.com/pupato13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pupato13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupato13&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <br/><br/>
+
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/pupato13/6cf8de78ea73eea8d95c9577caa832b1/raw/0e8f36e4c2ddc981e7dbe96cfe21c482e6345599/githubcard.svg"/>
 <h1 align="left">Yo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Pupato (aka Pupa)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pupato13&color=green" alt="Profile views" /> </p>
@@ -44,15 +52,6 @@
   </div>
 </div>
   
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <a href="https://github.com/pupato13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pupato13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupato13&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links

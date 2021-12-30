@@ -10,7 +10,7 @@
 <h1 align="left">Yo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Pupato (aka Pupa)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pupato13&color=green" alt="Profile views" /> </p>
 
-- 🔥 Senior Web Developer
+- 🔥 Senior Software Engineer
 
 - 🔭 I’m currently working at [1st Call Recruitment](https://www.1stcall.co.nz/)
 

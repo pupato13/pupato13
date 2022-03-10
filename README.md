@@ -12,7 +12,7 @@
 
 - 🔥 Senior Software Engineer
 
-- 🔭 I’m currently working at [1st Call Recruitment](https://www.1stcall.co.nz/)
+- 🔭 I’m currently working at [Datacom](https://datacom.com/)
 
 - 💬 Talk to me about **JavaScript, HTML, CSS, Node.JS, React-Native, MongoDB**
 

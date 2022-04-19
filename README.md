@@ -10,13 +10,13 @@
 <h1 align="left">Yo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diego Pupato (aka Pupa)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pupato13&color=green" alt="Profile views" /> </p>
 
-- 🔥 Senior Software Engineer
+- 🔥 Senior Front-end Developer
 
-- 🔭 I’m currently working at [Datacom](https://datacom.com/)
+- 💻 I’m currently working at [ModuSense](https://modusense.com)
 
 - 💬 Talk to me about **JavaScript, HTML, CSS, Node.JS, React-Native, MongoDB**
 
-- ❤ **Débora** *&* **Palmeiras**
+- ❤️ **Débora** *&* 💚 **Palmeiras**
 
 > *Understand the business. You'll be a much better developer if you understand the business you are in!*
 

@@ -16,7 +16,7 @@
 
 - 💬 Talk to me about **JavaScript, HTML, CSS, Node.JS, React-Native, MongoDB**
 
-- ❤️ **Débora** *&* 💚 **Palmeiras**
+- ❤️ **Débora** and **Heitor** *&* 💚 **Palmeiras**
 
 > *Understand the business. You'll be a much better developer if you understand the business you are in!*
 

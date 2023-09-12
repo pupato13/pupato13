@@ -12,7 +12,7 @@
 
 - 🔥 Senior Front-end Developer
 
-- 💻 I’m currently working at [ModuSense](https://modusense.com)
+- 💻 I’m currently working at [Devinci]
 
 - 💬 Talk to me about **JavaScript, HTML, CSS, Node.JS, React-Native, MongoDB**
 

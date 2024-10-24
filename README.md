@@ -3,13 +3,13 @@
 
 - 🔥 Senior Full Stack Developer
 
-- 💻 I’m currently looking for a job [remotely, preferably]
+- 💻 I’m a Senior Software Engineer at Centrapay
 
-- 💬 Talk to me about **JavaScript**, **React**, **React Native**, **Node.JS**,  **TypeScript**, **MongoDB**, **GraphQL** and **PostgreSQL**
+- 💬 Talk to me about **JavaScript**, **React**, **React Native**, **Node.JS**, **TypeScript**, **MongoDB** and **PostgreSQL**
 
 - ❤️ **Débora** and **Heitor** *&* 💚 **Palmeiras**
 
-> *Understand the business. You'll be a much better developer if you understand the business you are in!*
+> *You'll be a much better developer if you understand the business you are working with!*
 
 ## 🛠 &nbsp;Tech Stack
 <div align="center" style="background-color: #fff; display: flex; align-items: center; border-radius: 4px;">
